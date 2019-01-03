@@ -18,7 +18,20 @@
 
 ### Jan 3, 2019
 * DNA sequence
-  1. [Mettl7A](https://www.ncbi.nlm.nih.gov/nuccore/1519244361) of _Homo Sapiens_
+  * [Mettl7A](https://www.ncbi.nlm.nih.gov/nuccore/1519244361) of _Homo Sapiens_
+  * [Mettl4](https://www.ncbi.nlm.nih.gov/nuccore/1519241700) of _Homo Sapiens_
+    * 2 transcript variants
+      * shRNA design @ [HKU](https://i.cs.hku.hk/~sirna/software/sirna.php)
+        * a: GCAAATACCTATCCCTAAATT
+        * b: CAAGGTGAATTGGATGCTATG
+        * c: CTTTACCACTTGACGCCTGCA
+    * 5 predicted transcript variants : [ORFfinder](https://www.ncbi.nlm.nih.gov/orffinder/)
+      * [mtr4_Ptv1]()
+      * [mtr4_Ptv2]()
+      * [mtr4_Ptv3]()
+      * [mtr4_Ptv4]()
+      * [mtr4_Ptv5]()
+    * misc RNA, RNA of unknown function
 
 ---
 
