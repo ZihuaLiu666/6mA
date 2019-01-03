@@ -16,6 +16,10 @@
 * Question: 6mA content in different organelles
   * Separate mitochondria from nucleus, ask CC for help
 
+### Jan 3, 2019
+* DNA sequence
+  1. [Mettl7A](https://www.ncbi.nlm.nih.gov/nuccore/1519244361) of _Homo Sapiens_
+
 ---
 
 ## Ongoing work
