@@ -18,10 +18,14 @@
 
 ### Jan 3, 2019
 * DNA sequence
+  * shRNA design
+    * @ [InvivoGene](https://www.invivogen.com/sirnawizard/design.php)
+    * @ [HKU](https://i.cs.hku.hk/~sirna/software/sirna.php)
+    * @ [ThermoFisher](https://www.thermofisher.com/cn/zh/home/life-science/rnai/synthetic-rnai-analysis/ambion-silencer-select-sirnas/silencer-select-sirna.html)
   * [Mettl7A](https://www.ncbi.nlm.nih.gov/nuccore/1519244361) of _Homo Sapiens_
+    
   * [Mettl4](https://www.ncbi.nlm.nih.gov/nuccore/1519241700) of _Homo Sapiens_
     * 2 transcript variants
-      * shRNA design @ [HKU](https://i.cs.hku.hk/~sirna/software/sirna.php)
         * a: GCAAATACCTATCCCTAAATT
         * b: CAAGGTGAATTGGATGCTATG
         * c: CTTTACCACTTGACGCCTGCA
