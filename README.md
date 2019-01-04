@@ -23,12 +23,15 @@
     * @ [HKU](https://i.cs.hku.hk/~sirna/software/sirna.php)
     * @ [ThermoFisher](https://www.thermofisher.com/cn/zh/home/life-science/rnai/synthetic-rnai-analysis/ambion-silencer-select-sirnas/silencer-select-sirna.html)
   * [Mettl7A](https://www.ncbi.nlm.nih.gov/nuccore/1519244361) of _Homo Sapiens_
-    
+    * 1 transcript
+      * a: GAGAACCGACACCTGCAGTTT
+      * b: GTGTTCGACTTGGAATTACTT
+      * c: GTGATATACAACGAACAGATG
   * [Mettl4](https://www.ncbi.nlm.nih.gov/nuccore/1519241700) of _Homo Sapiens_
     * 2 transcript variants
-        * a: GCAAATACCTATCCCTAAATT
-        * b: CAAGGTGAATTGGATGCTATG
-        * c: CTTTACCACTTGACGCCTGCA
+      * a: GCAAATACCTATCCCTAAATT
+      * b: CAAGGTGAATTGGATGCTATG
+      * c: CTTTACCACTTGACGCCTGCA
     * 5 predicted transcript variants : [ORFfinder](https://www.ncbi.nlm.nih.gov/orffinder/)
       * [mtr4_Ptv1]()
       * [mtr4_Ptv2]()
@@ -42,4 +45,4 @@
 ## Ongoing work
 1. Ask for glioblastoma 
 2. HX would like to help me with the MS work
-  * d
+  * no detection on MEF
