@@ -18,7 +18,7 @@
 
 ### Jan 3, 2019
 * DNA sequence
-  * shRNA design
+  * shRNA design and use [**antiSENSE.py**](https://github.com/ZihuaLiu666/6mA/blob/master/antiSENSE.py) script to call Forward and Reversed oligo sequence
     * @ [InvivoGene](https://www.invivogen.com/sirnawizard/design.php)
     * @ [HKU](https://i.cs.hku.hk/~sirna/software/sirna.php)
     * @ [ThermoFisher](https://www.thermofisher.com/cn/zh/home/life-science/rnai/synthetic-rnai-analysis/ambion-silencer-select-sirnas/silencer-select-sirna.html)
@@ -39,7 +39,9 @@
       * [mtr4_Ptv4]()
       * [mtr4_Ptv5]()
     * misc RNA, RNA of unknown function
-
+    
+* Dr. Yi agrees to share the glioblastoma tumor cell with me
+- [x]  
 ---
 
 ## Ongoing work
