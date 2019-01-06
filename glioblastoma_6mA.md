@@ -64,7 +64,7 @@ Introduction of [**Glioma brain tumors (astrocytoma, oligodendroglioma, glioblas
 1. Digestion pLKO.1 
    * 4ug -> 128ng/uL @ 15uL 
 2. shRNA constructs (with negative control, no oligo insertion)
-3. Colony amplification
+3. Colony amplification
 4. Cell passage
    * H4 (DPF)
      * 1+3+1.5
