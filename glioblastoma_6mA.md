@@ -59,6 +59,43 @@ Introduction of [**Glioma brain tumors (astrocytoma, oligodendroglioma, glioblas
   * transformation
 * pLKO.1 positive trans
   * WD will help with the MaxiPrep. work
+---
+### Jan 5, 2019
+1. Digestion pLKO.1 
+   * 4ug -> 128ng/uL @ 15uL 
+2. shRNA constructs (with negative control, no oligo insertion)
+3. Colony amplification
+4. Cell passage
+   * H4 (DPF)
+     * 1+3+1.5
+     * 1+3+1
+   * GOS-3 (MPF)
+     * 1+3+1.5
+     * 1+3+1
+5. Cell stock
+   * 10% DMSO in DPF (Add 5mL DMSO to 45 mL DPF)
+   * H4 80%
+     * (1+3+1) -> 2 -> 1+1
+   * GOS-3 90%
+     * (1+3+1) -> 2 -> 1+1
+---
+### Jan 6, 2019
+* Plasmid preparation(1-3: Mettl4; 6-8: Mettl7a)
+  * 11
+  * 21:22
+  * 61:62
+* Colony amplification
+  * **results** 
+    * <font color=#A0000E> Both exp. group and negative control group have colony, and I am not sure whether the pLKO.1 plasmid is cut or not.</font>
+    * 1:2:3
+    * 6:7:8
+    * N (negative control dish)
+* Cell passage
+  * U251 70%
+    * (1+3+1.5) * 2
+* Cell stock
+  * U251 70%
+    * (1+3+1) -> 2 -> 1+1
 
 ---
 ## Ongoing work
@@ -66,4 +103,6 @@ Introduction of [**Glioma brain tumors (astrocytoma, oligodendroglioma, glioblas
 - [x] HX would like to help me with the MS work
   * no detection on MEF
 - [ ] WD will help with the MaxiPrep. work
-- [ ] Ask XPX about the virus package work, is there anything needed to be prepared in advance?
+- [x] Ask XPX about the virus package work, is there anything needed to be prepared in advance?
+- [ ] Plasmid preparation and sequencing @ Jan 7
+- [ ] <font color=#A0000E> Schedule the HEK293T cell, 7 dishes are need </font>
